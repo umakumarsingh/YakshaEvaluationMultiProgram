@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z72VGoJuV75zNdvjkLwL8DNPFqA64BHhSez2pBTBu8uI0HCW20kiI6rU0l59eooZhUiAawDpYfYv4Fo0TkqNGg==",
+  "success": true,
+  "projectFilePath": "D:\\IIHT\\Code_Clean\\YakshaSolution\\Upper\\Upper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\KUMARUMA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
